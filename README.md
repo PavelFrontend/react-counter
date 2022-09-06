@@ -1,3 +1,3 @@
 # React Counter
 
-**https://pavelfrontend.github.io/react-counter/
+**https://pavelfrontend.github.io/react-counter/**
